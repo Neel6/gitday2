@@ -1,5 +1,5 @@
 # Hello World
-print("Hello, Neelesh")
+print("Hello, Neel")
 
 # Add two numbers
 a = 5
